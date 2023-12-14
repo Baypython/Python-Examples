@@ -3,6 +3,11 @@ Project: Print letters in alphabet.
 Description: This project showcases examples of printing alphabet letters using the asterisk (*) character in Python.
 GitHub: Baypython
 instagram: baypython
+This project aims to provide examples of generating alphabet letters using the '*' character in the Python programming language. Each letter has its corresponding function (e.g., write_A) demonstrating how to print the respective letter pattern.
+
+Feel free to use, modify, and distribute the code as needed. If you have any questions or suggestions, please reach out via email or GitHub.
+
+Happy coding!
 """
 
 """
